@@ -1,6 +1,7 @@
 # Biblioteca Digital de Eventos Científicos
 
 Disciplina de Design de Software (INF/UFG)
+
 Professor orientador: FABIO NOGUEIRA DE LUCENA
 
 ## Integrantes do grupo
