@@ -10,8 +10,9 @@
 ## Escopo e objetivos
 A Biblioteca Digital de Eventos Científicos tem o objetivo de divulgar e registrar a produção científica realizada pelos pesquisadores de diversas instituições do país. 
 
-### Biblioteca Digital
+Palavras-chave:
+- Biblioteca Digital
 
-### Evento Científico
+- Evento Científico
 
-### Produção Científica
+- Produção Científica
