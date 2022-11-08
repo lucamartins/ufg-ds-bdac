@@ -1,5 +1,7 @@
 # Biblioteca Digital de Eventos Científicos
 
+Professor orientador: FABIO NOGUEIRA DE LUCENA
+
 ## Integrantes do grupo
 - Adriel Lenner Mori (202004741)
 - Igor Moreira Pádua (202009567)
