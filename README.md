@@ -2,7 +2,7 @@
 
 Disciplina de Design de Software (INF/UFG)
 
-Professor orientador: FABIO NOGUEIRA DE LUCENA
+Professor orientador: Fabio Nogueira de Lucena
 
 ## Integrantes do grupo
 - Adriel Lenner Mori (202004741)
