@@ -12,7 +12,7 @@ Professor orientador: Fabio Nogueira de Lucena
 - Paulo Roberto Vieira (202009580)
 
 ## Escopo e objetivos
-A Biblioteca Digital de Eventos Científicos tem o objetivo de divulgar e registrar a produção científica realizada pelos pesquisadores de diversas instituições do país.
+A Biblioteca Digital de Eventos Científicos tem como objetivo divulgar e registrar a produção científica realizada pelos pesquisadores de diversas instituições do país.
 
 Hoje em dia, nos eventos científicos não há algum tipo de registro dos artefatos apresentados. O sistema foca justamente em resolver essa problemática, impulsionando a divulgação científica e servindo como uma base de apoio para que pesquisadores consigam mais facilmente encontrar tais produções.
 
