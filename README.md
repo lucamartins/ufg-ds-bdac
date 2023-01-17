@@ -24,3 +24,8 @@ Palavras-chave:
 - Evento Científico
 
 - Produção Científica
+
+Documentação
+- [Diagrama de Contexto](https://github.com/lucamartins/DS-BDEC/blob/34c7973094e097dee5c522814ea59f99c7c7446e/Diagrama%20de%20Contexto.pdf)
+- [Diagrama de Containers](https://github.com/lucamartins/DS-BDEC/blob/34c7973094e097dee5c522814ea59f99c7c7446e/Diagrama%20de%20Containers.pdf)
+- [Diagrama de Componentes da API](https://github.com/lucamartins/DS-BDEC/blob/34c7973094e097dee5c522814ea59f99c7c7446e/Components%20Diagram%20(API).pdf)
