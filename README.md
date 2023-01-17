@@ -7,7 +7,7 @@ Professor orientador: Fabio Nogueira de Lucena
 ## Integrantes do grupo
 - Adriel Lenner Mori (202004741)
 - Igor Moreira Pádua (202009567)
-- Jõao Pedro Soares Nery (202204197)
+- João Pedro Soares Nery (202204197)
 - Luca Santos Martins (202004765)
 - Paulo Roberto Vieira (202009580)
 
