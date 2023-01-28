@@ -5,7 +5,7 @@ A visão do projeto foi especificada no README e no diagrama de contexto.
 # Limite
 
 O limite do sistema foi contextualizado no diagrama contexto que demonstra quais os sistemas externos que irão estar presentes no sistema.
-
+ 
 # Contrato
 
 O contrato do sistema foi feito parcialmente, fizemos o diagrama com os sistemas externos (DS - Sistemas externos), porém, ainda produzimos como nos comunicamos com eles.
@@ -28,6 +28,6 @@ O grupo já fez parcialmente o contrato de dados utilizados entre os outros sist
 Fizemos o banco de dados do nosso sistema;
 Não fizemos consultas complexas para o modelo de dados, pois não vimos necessidades de fazer.
 
-# Ferramentas de design
+# Ferramentas de design 
 
 Utilizamos o Miro para fazer todo o design do nosso sistema.
