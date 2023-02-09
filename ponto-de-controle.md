@@ -20,9 +20,9 @@ O projeto está sendo desenvolvido de baixo para cima. Ou seja, primeiro estamos
 
 # Processo de Design
 
-1. Os requisitos do sistema foi feito;
-2. Ainda não fizemos a interface do usuário, mas com o andamento do projeto iremos fazer;
-3. Não refinamos nos requisitos pois acreditamos que conseguimos contemplar todos os pontos importantes do projeto;
+1. Os requisitos do sistema foram feitos;
+2. Ainda não fizemos a interface do usuário, mas com o andamento do projeto podemos construir;
+3. Não refinamos nos requisitos pois acreditamos que conseguimos contemplar os pontos mais importantes do projeto;
 4. No diagrama de componentes criamos os contratos necessários para o sistema back-end e com os outros sistemas;
 5. O grupo já fez parcialmente o contrato de dados utilizados entre os outros sistemas, já fizemos diagrama com a comunicação com outros sistemas, porém, ainda falta fazer um documento de como tratamos os dados.
 6. Fizemos o banco de dados do nosso sistema;
