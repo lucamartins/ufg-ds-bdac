@@ -28,7 +28,7 @@ Atualmente em eventos científicos (congressos, seminários, etc.) não há uma 
 
 A Biblioteca Digital de Artigos Científicos (BDAC) tem como objetivo fornecer um recurso confiável e acessível para que os pesquisadores, estudantes e outros interessados possam encontrar, ler e baixar artigos científicos relevantes para suas áreas de estudo ou interesse. Além disso, a biblioteca deve ser projetada de tal forma que possa ser facilmente mantida e atualizada, para que possa continuar a fornecer informações precisas e atualizadas sobre artigos científicos.
 
-Os Requisitos que levantamos foram especificados em um documento que esta no seguinte arquivo:[Documento de Requisitos](https://github.com/lucamartins/DS-BDAC/blob/main/Documento%20de%20Requisitos%20de%20Software.pdf).
+Os Requisitos que levantamos foram especificados em um documento que pode ser verificado no seguinte arquivo:[Documento de Requisitos](https://github.com/lucamartins/DS-BDAC/blob/main/Documento%20de%20Requisitos%20de%20Software.pdf).
 
 ## Design e Arquitetura
 No âmbito mais geral do contexto de divulgação científica, o sistema não funcionará como substituto para bibliotecas digitais existentes. Assim, produções como teses e dissertações continuam nas famosas Bibliotecas Digitais de Teses e Dissertações (BDTD). Da mesma forma, artigos científicos permanecem com seus respectivos produtores. O contexto que envolve o sistema proposto pode ser verificado através do seguinte diagrama: [Diagrama de Contexto](https://github.com/lucamartins/DS-BDAC/blob/main/Diagrama%20de%20Contexto.pdf).
