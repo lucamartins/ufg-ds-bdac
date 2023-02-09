@@ -11,10 +11,21 @@ Professor orientador: Fabio Nogueira de Lucena
 - Luca Santos Martins (202004765)
 - Paulo Roberto Vieira (202009580)
 
-## Escopo e objetivos
-A Biblioteca Digital de Artigos Científicos tem como objetivo registrar e arquivar a produção científica realizada por pesquisadores de diversas instituições do país.
+## Escopo e Objetivos
+ O escopo pode incluir várias funcionalidades tais como:
+**Armazenamento e gestão de artigos científicos**: a biblioteca deve ser capaz de armazenar artigos científicos de vários formatos, incluindo PDF, DOC, etc. e oferecer uma interface fácil de usar para gerenciar esses artigos.
 
-Hoje em dia, nos eventos científicos não há algum tipo de registro dos artigos apresentados. O sistema foca justamente em resolver essa problemática, impulsionando a divulgação científica e servindo como uma base de apoio para que pesquisadores consigam mais facilmente encontrar tais produções.
+**Busca e recuperação de artigos**: a biblioteca deve oferecer uma interface de busca poderosa que permita aos usuários encontrar facilmente artigos relevantes de acordo com critérios específicos, como título, autor, data de publicação, etc.
+
+**Classificação e categorização de artigos**: a biblioteca deve oferecer uma maneira de classificar e categorizar artigos científicos de acordo com suas áreas de especialização, disciplinas, etc.
+
+**Acesso a artigos**: a biblioteca deve permitir que os usuários acessem artigos científicos online e possam fazer download de cópias dos mesmos.
+
+**Integração com outras fontes de informação**: a biblioteca deve estar integrada a outras fontes de informação relevantes, como bibliotecas científicas, bases de dados (Capes e IBICT).
+
+Atualmente em eventos científicos (congressos, seminários, etc.) não há uma forma de armazenar os artigos/papers apresentados. O sistema proposto foca justamente em resolver essa problemática, impulsionando a divulgação científica e servindo como uma base de apoio para que pesquisadores consigam mais facilmente encontrar tais produções.
+
+A Biblioteca Digital de Artigos Científicos (BDAC) tem como objetivo fornecer um recurso confiável e acessível para que os pesquisadores, estudantes e outros interessados possam encontrar, ler e baixar artigos científicos relevantes para suas áreas de estudo ou interesse. Além disso, a biblioteca deve ser projetada de tal forma que possa ser facilmente mantida e atualizada, para que possa continuar a fornecer informações precisas e atualizadas sobre artigos científicos.
 
 Os Requisitos que levantamos foram especificados em um documento que esta no seguinte arquivo:[Documento de Requisitos](https://github.com/lucamartins/DS-BDAC/blob/main/Documento%20de%20Requisitos%20de%20Software.pdf).
 
