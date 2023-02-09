@@ -13,6 +13,7 @@ Professor orientador: Fabio Nogueira de Lucena
 
 ## Escopo e Objetivos
  O escopo pode incluir várias funcionalidades tais como:
+ 
 **Armazenamento e gestão de artigos científicos**: a biblioteca deve ser capaz de armazenar artigos científicos de vários formatos, incluindo PDF, DOC, etc. e oferecer uma interface fácil de usar para gerenciar esses artigos.
 
 **Busca e recuperação de artigos**: a biblioteca deve oferecer uma interface de busca poderosa que permita aos usuários encontrar facilmente artigos relevantes de acordo com critérios específicos, como título, autor, data de publicação, etc.
